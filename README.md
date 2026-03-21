@@ -38,13 +38,20 @@ The following screenshots demonstrate the main features of the application:
 ### 🏠 Home Page
 ![Home](home.png)
 
-### 💄 Products Page
-![Products](products.png)
+### 💄 About Page
+![About](about.png)
 
-### 📦 Product Details
-![Details](details.png)
+### 📦 Services
+![Services](services.png)
+
+### 📦 Specialists
+![Specialists](specialists.png)
+
+### 📦 Contact
+![Contact](contact.png)
 
 ---
+Add screenshots 
 
 ## ⚙️ How to Run the Project
 
