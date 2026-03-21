@@ -1,12 +1,53 @@
-# React + Vite
+# 💄 Cosmetics Store Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive web application for browsing and exploring cosmetic products. This project demonstrates my ability to build interactive and user-friendly web interfaces using modern frontend technologies.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## Expanding the ESLint configuration
+This project is a cosmetics e-commerce web application designed to provide a smooth and engaging user experience. It allows users to explore products, view details, and interact with a clean and responsive interface.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The application focuses on usability, performance, and modern design principles.
+
+---
+
+## ✨ Features
+
+- 🛍️ Browse cosmetic products بسهولة
+- 🔍 View product details
+- 📱 Responsive design (works on mobile & desktop)
+- 🎨 Clean and modern UI
+- ⚡ Fast and interactive interface
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Responsive Design  
+
+---
+
+## 📸 Screenshots
+
+The following screenshots demonstrate the main features of the application:
+
+### 🏠 Home Page
+![Home](home.png)
+
+### 💄 Products Page
+![Products](products.png)
+
+### 📦 Product Details
+![Details](details.png)
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository:
+```bash
+git clone https://github.com/AlaaKh2024/Cosmetics.git
