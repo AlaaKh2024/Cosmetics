@@ -24,7 +24,7 @@ The application focuses on usability, performance, and modern design principles.
 
  ✨ Features
 
-- 🛍️ Browse cosmetic products بسهولة
+- 🛍️ Browse cosmetic products 
 - 🔍 View product details
 - 📱 Responsive design (works on mobile & desktop)
 - 🎨 Clean and modern UI
